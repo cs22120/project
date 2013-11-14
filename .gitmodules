@@ -1,0 +1,6 @@
+[submodule "SRC/Drafts/server"]
+	path = SRC/Drafts/server
+	url = https://github.com/cs22120/server.git
+[submodule "SRC/Drafts/client"]
+	path = SRC/Drafts/client
+	url = https://github.com/cs22120/client.git
