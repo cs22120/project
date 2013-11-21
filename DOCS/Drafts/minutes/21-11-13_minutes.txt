@@ -1,0 +1,42 @@
+Group Project 02
+Weekly Meeting
+21/11/2013
+
+Present: Doug, James, Dillon, Luke, Ben, Chris, Jostein, Ashley
+Author: Ben
+Chair: James
+
+Matters Arising
+===============
+
+Chris has put together some Android screens which all link up.
+
+Doug has been using some PHP.
+
+Dillon and Doug will look into doing some databases. We will be using MySQL
+
+Class Diagrams were put together yesterday(20/11/13)
+
+New Business
+=============
+
+GPS algorithm to go into the significant algorithms section.
+
+Database design to go into the significant data structures.
+
+James is to send over class diagrams to everybody.
+
+Doug will do a write up for structures and databases.
+
+Ben will get a template for these documents so people have something to work from.
+
+Ashley will find out about diagrams.
+
+Jostein will look into doing the sequence diagram format.
+
+A.O.B
+======
+
+James is still awaiting a response from Chris Price to check about the functional requirement 6. The specification is very ambiguous.
+
+NEXT MEETING WILL BE NEXT WEDNESDAY (27/11/13) this will be just to do a check up.
